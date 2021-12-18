@@ -1,0 +1,240 @@
+/*most of the mobile phone css*/
+@media (min-width: 280px) and ( max-width: 320px){
+
+	/*css start*/
+	.header .navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.header .navbar-nav{
+		margin: 40px 0px 0px;
+	}
+	.header .navbar-toggler:focus{
+		box-shadow: 0 0 0 0rem;
+	}
+	.header .navbar-light .navbar-nav .nav-link{
+		margin: 0px 0px 15px;
+	}
+	.header .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+
+	.inner-button .btn-primary{
+		padding: 5px 30px;
+	}
+	.header .banner h4{
+		font-size: 20px;
+	}
+
+	.header .banner h2 {
+		font-size: 30px;
+	}
+	.title h2 {
+    	font-size: 20px;
+	}
+	.features p{
+		font-size: 10px;
+	}
+	.number .demo{
+		font-size: 80px;
+	}
+	.number .demo1{
+		font-size: 80px;
+	}
+	.number .demo2{
+		font-size: 80px;
+	}
+	.number .demo3{
+		font-size: 80px;
+	}
+	.title h2 {
+    	font-size: 15px;
+	}
+	.inner-blog{
+		padding: 20px 0px;
+	}
+	.wrapper .filte{
+		padding: 20px 0px;
+	}
+	.testimonials .col-9{
+		padding: 0px 0px 0px 45px;
+	}
+	.footer .col-lg-6{
+		
+	}
+	
+
+	/*css end*/
+}
+@media (min-width: 321px) and ( max-width: 480px){
+/*css start*/
+	.header .navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.header .navbar-nav{
+		margin: 40px 0px 0px;
+	}
+	.header .navbar-toggler:focus{
+		box-shadow: 0 0 0 0rem;
+	}
+	.header .navbar-light .navbar-nav .nav-link{
+		margin: 0px 0px 15px;
+	}
+	.header .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .banner h4{
+		font-size: 30px;
+	}
+
+	.header .banner h2 {
+		font-size: 45px;
+	}
+	.title h2{
+		font-size: 25px;
+	}
+	.features p{
+		font-size: 14px;
+	}
+	.number .demo{
+		font-size: 100px;
+	}
+	.number .demo1{
+		font-size: 100px;
+	}
+	.number .demo2{
+		font-size: 100px;
+	}
+	.number .demo3{
+		font-size: 100px;
+	}
+	.title h2 {
+    	font-size: 20px;
+	}
+	.inner-blog{
+		padding: 30px 0px;
+	}
+	.wrapper .filte{
+		padding: 25px 0px;
+	}
+	.testimonials .col-9{
+		padding: 0px 0px 0px 59px;
+	}
+	.footer .col-lg-6{
+		
+	}
+
+	/*css end*/
+
+}
+
+/*most of the mobile low regulation tablet, mobile phone css*/
+@media (min-width: 481px) and ( max-width: 767px){
+/*css start*/
+	.header .navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.header .navbar-nav{
+		margin: 40px 0px 0px;
+	}
+	.header .navbar-toggler:focus{
+		box-shadow: 0 0 0 0rem;
+	}
+	.header .navbar-light .navbar-nav .nav-link{
+		margin: 0px 0px 15px;
+	}
+	.header .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .banner h4{
+		font-size: 30px;
+	}
+
+	.header .banner h2 {
+		font-size: 45px;
+	}
+	.title h2{
+		font-size: 25px;
+	}
+	.features p{
+		font-size: 14px;
+	}
+	.number .demo{
+		font-size: 100px;
+	}
+	.number .demo1{
+		font-size: 100px;
+	}
+	.number .demo2{
+		font-size: 100px;
+	}
+	.number .demo3{
+		font-size: 100px;
+	}
+	.title h2 {
+    	font-size: 20px;
+	}
+	.inner-blog{
+		padding: 30px 0px;
+	}
+	.wrapper .filte{
+		padding: 25px 0px;
+	}
+	.testimonials .col-9{
+		padding: 0px 0px 0px 59px;
+	}
+	.footer .col-lg-6{
+		
+	}
+
+/*css end*/
+
+}
+
+/*most of the ipad, tablet, notebook css*/
+@media (min-width: 768px) and ( max-width: 1024px){
+/*css start*/
+	.header .navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.header .navbar-nav{
+		margin: 40px 0px 0px;
+	}
+	.header .navbar-toggler:focus{
+		box-shadow: 0 0 0 0rem;
+	}
+	.header .navbar-light .navbar-nav .nav-link{
+		margin: 0px 0px 15px;
+	}
+	.header .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.inner-blog{
+		padding: 30px 0px;
+	}
+	.wrapper .filte{
+		padding: 25px 0px;
+	}
+	.testimonials .col-9{
+		padding: 0px 0px 0px 59px;
+	}
+
+
+/*css end*/
+
+}
